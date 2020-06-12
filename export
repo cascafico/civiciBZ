@@ -1,0 +1,17 @@
+    {
+      "id"  : {{(cells["ID"].value)}},
+      "lat" : {{(cells["Y"].value)}},
+      "lon" : {{(cells["X"].value)}},
+      "tags" : {
+               "addr:street" : {{jsonize(cells["addr:street"].value)}},
+               "addr:street:it" : {{jsonize(cells["STREET_IT"].value)}},
+               "addr:street:de" : {{jsonize(cells["STREET_DE"].value)}},
+               "addr:housenumber" : {{jsonize(cells["HOUSE_NR"].value)}},
+               "addr:housename" : {{jsonize(cells["HOUES_IT"].value)}},
+               "addr:postcode" : {{jsonize(cells["ZIP_CODE"].value)}},
+               "addr:city" : {{jsonize(cells["addr:city"].value)}},
+               "addr:city:it" : {{jsonize(cells["MUNIC_IT"].value)}},
+               "addr:city:de" : {{jsonize(cells["MUNIC_DE"].value)}}
+               }
+    }
+

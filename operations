@@ -1,0 +1,634 @@
+[
+  {
+    "op": "core/column-reorder",
+    "description": "Reorder columns",
+    "columnNames": [
+      "X",
+      "Y",
+      "ID",
+      "STREET_DE",
+      "STREET_IT",
+      "HOUSE_NR",
+      "HOUSE_DE",
+      "HOUES_IT",
+      "MUNIC_DE",
+      "MUNIC_IT",
+      "ZIP_CODE"
+    ]
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column X using expression value.toNumber()",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "X",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Y using expression value.toNumber()",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Y",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column X using expression grel:round(value*1000000)/1000000.0",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "X",
+    "expression": "grel:round(value*1000000)/1000000.0",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Y using expression grel:round(value*1000000)/1000000.0",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Y",
+    "expression": "grel:round(value*1000000)/1000000.0",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column STREET_DE using expression value.toTitlecase()",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "STREET_DE",
+    "expression": "value.toTitlecase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column STREET_IT using expression value.toTitlecase()",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "STREET_IT",
+    "expression": "value.toTitlecase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column STREET_IT using expression grel:value.replace(\" Di \", \" di \").replace(\" Del \", \" del \").replace(\" Dei \", \" dei \").replace(\" Dell'\", \" dell'\").replace(\" Della\", \" della\").replace(\" Delle \", \" delle \").replace(\" Degli\", \" degli\").replace(\" E \", \" e \").replace(\" A \", \" a \").replace(\" Nei \", \" nei \").replace(\" Nel \", \" nel \").replace(\" Sui \", \" sui \").replace(\" Sul \", \" sul \").replace(\" Dal \", \" dal \").replace(\" Dai \", \" dai \")",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "STREET_IT",
+    "expression": "grel:value.replace(\" Di \", \" di \").replace(\" Del \", \" del \").replace(\" Dei \", \" dei \").replace(\" Dell'\", \" dell'\").replace(\" Della\", \" della\").replace(\" Delle \", \" delle \").replace(\" Degli\", \" degli\").replace(\" E \", \" e \").replace(\" A \", \" a \").replace(\" Nei \", \" nei \").replace(\" Nel \", \" nel \").replace(\" Sui \", \" sui \").replace(\" Sul \", \" sul \").replace(\" Dal \", \" dal \").replace(\" Dai \", \" dai \")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column HOUSE_DE using expression value.toTitlecase()",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "HOUSE_DE",
+    "expression": "value.toTitlecase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column HOUES_IT using expression value.toTitlecase()",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "HOUES_IT",
+    "expression": "value.toTitlecase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column MUNIC_DE using expression value.toTitlecase()",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "MUNIC_DE",
+    "expression": "value.toTitlecase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column MUNIC_IT using expression value.toTitlecase()",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "MUNIC_IT",
+    "expression": "value.toTitlecase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column MUNIC_DE",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "MUNIC_DE",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Vls Am Schlern"
+        ],
+        "to": "Vls am Schlern"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column MUNIC_IT",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "MUNIC_IT",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Fie' Allo Sciliar"
+        ],
+        "to": "Fie' allo Sciliar"
+      }
+    ]
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column ID using expression value.toNumber()",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ID",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column STREET_DE",
+    "engineConfig": {
+      "facets": [
+        {
+          "name": "STREET_DE",
+          "columnName": "STREET_DE",
+          "query": "-",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false,
+          "type": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "STREET_DE",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "H.-mumelter-weg"
+        ],
+        "to": "H.-Mumelter-Weg"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column STREET_DE",
+    "engineConfig": {
+      "facets": [
+        {
+          "name": "STREET_DE",
+          "columnName": "STREET_DE",
+          "query": "-",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false,
+          "type": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "STREET_DE",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Sankt-martin-weg"
+        ],
+        "to": "Sankt-Martin-Weg"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column STREET_DE",
+    "engineConfig": {
+      "facets": [
+        {
+          "name": "STREET_DE",
+          "columnName": "STREET_DE",
+          "query": "-",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false,
+          "type": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "STREET_DE",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Anton-psenner-weg"
+        ],
+        "to": "Anton-Psenner-Weg"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column STREET_DE",
+    "engineConfig": {
+      "facets": [
+        {
+          "name": "STREET_DE",
+          "columnName": "STREET_DE",
+          "query": "-",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false,
+          "type": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "STREET_DE",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "St.-anton-strasse"
+        ],
+        "to": "St.-Anton-Strasse"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column STREET_DE",
+    "engineConfig": {
+      "facets": [
+        {
+          "name": "STREET_DE",
+          "columnName": "STREET_DE",
+          "query": "-strasse",
+          "mode": "text",
+          "caseSensitive": true,
+          "invert": false,
+          "type": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "STREET_DE",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Anna-jobstin-strasse"
+        ],
+        "to": "Anna-Jobstin-Strasse"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column STREET_DE",
+    "engineConfig": {
+      "facets": [
+        {
+          "name": "STREET_DE",
+          "columnName": "STREET_DE",
+          "query": "-weg",
+          "mode": "text",
+          "caseSensitive": true,
+          "invert": false,
+          "type": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "STREET_DE",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Sankt-nikolaus-weg"
+        ],
+        "to": "Sankt-Nikolaus-Weg"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column STREET_DE",
+    "engineConfig": {
+      "facets": [
+        {
+          "name": "STREET_DE",
+          "columnName": "STREET_DE",
+          "query": "-weg",
+          "mode": "text",
+          "caseSensitive": true,
+          "invert": false,
+          "type": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "STREET_DE",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Sankt-johannes-weg"
+        ],
+        "to": "Sankt-Johannes-Weg"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column STREET_DE",
+    "engineConfig": {
+      "facets": [
+        {
+          "name": "STREET_DE",
+          "columnName": "STREET_DE",
+          "query": "-weg",
+          "mode": "text",
+          "caseSensitive": true,
+          "invert": false,
+          "type": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "STREET_DE",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Sankt-kathrein-weg"
+        ],
+        "to": "Sankt-Kathrein-Weg"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column MUNIC_IT",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "MUNIC_IT",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Fie' allo Sciliar"
+        ],
+        "to": "Fiè allo Sciliar"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column MUNIC_DE",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "MUNIC_DE",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Völs Am Schlern"
+        ],
+        "to": "Völs am Schlern"
+      }
+    ]
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column addr:city at index 9 based on column MUNIC_DE using expression grel:value+\" - \" + cells[\"MUNIC_IT\"].value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "addr:city",
+    "columnInsertIndex": 9,
+    "baseColumnName": "MUNIC_DE",
+    "expression": "grel:value+\" - \" + cells[\"MUNIC_IT\"].value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/row-star",
+    "description": "Star rows",
+    "engineConfig": {
+      "facets": [
+        {
+          "name": "STREET_DE",
+          "columnName": "STREET_DE",
+          "query": "schie",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false,
+          "type": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column STREET_DE using expression grel:replace(value, \"ss\", 'ß')",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Starred Rows",
+          "expression": "row.starred.toString()",
+          "columnName": "",
+          "invert": false,
+          "selection": [
+            {
+              "v": {
+                "v": "false",
+                "l": "false"
+              }
+            }
+          ],
+          "selectNumber": false,
+          "selectDateTime": false,
+          "selectBoolean": false,
+          "omitBlank": false,
+          "selectBlank": false,
+          "omitError": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "STREET_DE",
+    "expression": "grel:replace(value, \"ss\", 'ß')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/row-star",
+    "description": "Unstar rows",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "starred": false
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column STREET_IT using expression grel:replace(value, \"Fie'\", 'Fiè')",
+    "engineConfig": {
+      "facets": [
+        {
+          "name": "STREET_IT",
+          "columnName": "STREET_IT",
+          "query": "Fie",
+          "mode": "text",
+          "caseSensitive": true,
+          "invert": false,
+          "type": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "STREET_IT",
+    "expression": "grel:replace(value, \"Fie'\", 'Fiè')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column addr:street at index 4 based on column STREET_DE using expression grel:if (value == cells[\"STREET_IT\"].value,\nvalue,\nvalue +\" - \"+\ncells[\"STREET_IT\"].value)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "addr:street",
+    "columnInsertIndex": 4,
+    "baseColumnName": "STREET_DE",
+    "expression": "grel:if (value == cells[\"STREET_IT\"].value,\nvalue,\nvalue +\" - \"+\ncells[\"STREET_IT\"].value)",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column HOUSE_NR using expression grel:replace(value, \"/\", \"\")",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "HOUSE_NR",
+    "expression": "grel:replace(value, \"/\", \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column HOUSE_NR using expression value.toLowercase()",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "HOUSE_NR",
+    "expression": "value.toLowercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  }
+]
