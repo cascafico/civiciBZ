@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API 0.7.56.1004 6cd3eaec">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-06-08T11:29:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-06-15T07:26:02Z" areas="2020-03-06T11:03:01Z"/>
 
-  <node id="2756068795" lat="46.4925401" lon="11.4587187" version="2" timestamp="2018-06-03T16:00:35Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756068795" lat="46.4925401" lon="11.4587187" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
   <node id="2756068127" lat="46.4939682" lon="11.4752682" version="2" timestamp="2018-06-03T16:00:10Z" changeset="59512289" uid="160229" user="sorcrosc">
@@ -55,254 +55,254 @@
     <tag k="addr:postcode" v="39050"/>
     <tag k="addr:street" v="Bühelweg - via Buehel"/>
   </node>
-  <node id="2756066988" lat="46.4961000" lon="11.4489331" version="2" timestamp="2018-06-03T15:59:45Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756066988" lat="46.4961000" lon="11.4489331" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756067188" lat="46.4958950" lon="11.4490855" version="2" timestamp="2018-06-03T15:59:48Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756067188" lat="46.4958950" lon="11.4490855" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756066066" lat="46.5003945" lon="11.4539273" version="2" timestamp="2018-06-03T15:59:19Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756066066" lat="46.5003945" lon="11.4539273" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756066479" lat="46.4971083" lon="11.4504454" version="2" timestamp="2018-06-03T15:59:32Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756066479" lat="46.4971083" lon="11.4504454" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756066596" lat="46.4970167" lon="11.4503197" version="2" timestamp="2018-06-03T15:59:37Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756066596" lat="46.4970167" lon="11.4503197" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756066758" lat="46.4971901" lon="11.4500866" version="2" timestamp="2018-06-03T15:59:41Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756066758" lat="46.4971901" lon="11.4500866" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756067487" lat="46.4956897" lon="11.4494374" version="2" timestamp="2018-06-03T15:59:53Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756067487" lat="46.4956897" lon="11.4494374" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756067640" lat="46.4952557" lon="11.4498518" version="2" timestamp="2018-06-03T15:59:57Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756067640" lat="46.4952557" lon="11.4498518" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756067784" lat="46.4951004" lon="11.4501566" version="2" timestamp="2018-06-03T16:00:00Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756067784" lat="46.4951004" lon="11.4501566" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756067995" lat="46.4952008" lon="11.4503999" version="2" timestamp="2018-06-03T16:00:04Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756067995" lat="46.4952008" lon="11.4503999" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756068129" lat="46.5004335" lon="11.4536248" version="2" timestamp="2018-06-03T16:00:10Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756068129" lat="46.5004335" lon="11.4536248" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756068188" lat="46.4948013" lon="11.4513788" version="2" timestamp="2018-06-03T16:00:13Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756068188" lat="46.4948013" lon="11.4513788" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756068255" lat="46.4978418" lon="11.4510389" version="2" timestamp="2018-06-03T16:00:15Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756068255" lat="46.4978418" lon="11.4510389" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756068390" lat="46.4997095" lon="11.4538786" version="2" timestamp="2018-06-03T16:00:20Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756068390" lat="46.4997095" lon="11.4538786" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756068432" lat="46.4987879" lon="11.4523384" version="2" timestamp="2018-06-03T16:00:21Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756068432" lat="46.4987879" lon="11.4523384" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756068466" lat="46.4948786" lon="11.4509318" version="2" timestamp="2018-06-03T16:00:23Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756068466" lat="46.4948786" lon="11.4509318" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756068552" lat="46.4997704" lon="11.4540426" version="2" timestamp="2018-06-03T16:00:25Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756068552" lat="46.4997704" lon="11.4540426" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756068601" lat="46.4975471" lon="11.4505904" version="2" timestamp="2018-06-03T16:00:26Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756068601" lat="46.4975471" lon="11.4505904" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756068612" lat="46.4994328" lon="11.4535066" version="2" timestamp="2018-06-03T16:00:28Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756068612" lat="46.4994328" lon="11.4535066" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756068741" lat="46.5000215" lon="11.4533064" version="2" timestamp="2018-06-03T16:00:33Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756068741" lat="46.5000215" lon="11.4533064" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756069191" lat="46.4993448" lon="11.4525106" version="2" timestamp="2018-06-03T16:00:51Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756069191" lat="46.4993448" lon="11.4525106" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756069323" lat="46.4989096" lon="11.4524485" version="2" timestamp="2018-06-03T16:01:06Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756069323" lat="46.4989096" lon="11.4524485" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756069579" lat="46.4990262" lon="11.4525947" version="2" timestamp="2018-06-03T16:01:18Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756069579" lat="46.4990262" lon="11.4525947" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756069693" lat="46.4986829" lon="11.4522390" version="2" timestamp="2018-06-03T16:01:27Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756069693" lat="46.4986829" lon="11.4522390" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
-  <node id="2756069841" lat="46.4983052" lon="11.4517641" version="2" timestamp="2018-06-03T16:01:43Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756069841" lat="46.4983052" lon="11.4517641" version="3" timestamp="2020-06-13T15:04:12Z" changeset="86601830" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:place" v="Blumau - Prato All Isarco"/>
+    <tag k="addr:place" v="Blumau - Prato all'Isarco"/>
     <tag k="addr:place:de" v="Blumau"/>
-    <tag k="addr:place:it" v="Prato All Isarco"/>
+    <tag k="addr:place:it" v="Prato all'Isarco"/>
     <tag k="addr:postcode" v="39053"/>
   </node>
   <node id="1762647546" lat="46.4963120" lon="11.4613082" version="3" timestamp="2018-06-03T15:59:14Z" changeset="59512289" uid="160229" user="sorcrosc">
@@ -1162,12 +1162,16 @@
     <tag k="addr:place:it" v="Santa Caterina"/>
     <tag k="addr:postcode" v="39050"/>
   </node>
-  <node id="1364296756" lat="46.4930322" lon="11.4849218" version="3" timestamp="2020-01-16T23:36:12Z" changeset="79669724" uid="2061935" user="Fritz_92">
+  <node id="1364296756" lat="46.4930322" lon="11.4849218" version="4" timestamp="2020-06-13T15:52:51Z" changeset="86603002" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
+    <tag k="addr:city:de" v="Völs am Schlern"/>
+    <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:postcode" v="39050"/>
-    <tag k="addr:street" v="St.-Johannes-Weg"/>
+    <tag k="addr:street" v="Sankt-Johannes-Weg - Via San Giovanni"/>
+    <tag k="addr:street:de" v="Sankt-Johannes-Weg"/>
+    <tag k="addr:street:it" v="Via San Giovanni"/>
     <tag k="amenity" v="fire_station"/>
     <tag k="email" v="ff.voelseraicha@lfvbz.org"/>
     <tag k="fax" v="+39 0471 601 024"/>
@@ -2105,7 +2109,7 @@
     <tag k="addr:place:it" v="Presule"/>
     <tag k="addr:postcode" v="39050"/>
   </node>
-  <node id="6206029174" lat="46.5033773" lon="11.4935332" version="1" timestamp="2019-01-13T18:31:34Z" changeset="66280473" uid="587015" user="josil">
+  <node id="6206029174" lat="46.5033773" lon="11.4935332" version="2" timestamp="2020-06-13T20:34:39Z" changeset="86609174" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
@@ -2114,11 +2118,11 @@
     <tag k="addr:hamlet:it" v="Presule"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:postcode" v="39050"/>
-    <tag k="addr:street" v="Prösler Straße - via Presule"/>
+    <tag k="addr:street" v="Prösler Straße - Via Presule"/>
     <tag k="addr:street:de" v="Prösler Straße"/>
-    <tag k="addr:street:it" v="via Presule"/>
+    <tag k="addr:street:it" v="Via Presule"/>
   </node>
-  <node id="6206029695" lat="46.5029658" lon="11.4911329" version="1" timestamp="2019-01-13T18:31:38Z" changeset="66280473" uid="587015" user="josil">
+  <node id="6206029695" lat="46.5029658" lon="11.4911329" version="2" timestamp="2020-06-13T20:34:39Z" changeset="86609174" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
@@ -2127,9 +2131,9 @@
     <tag k="addr:hamlet:it" v="Presule"/>
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:postcode" v="39050"/>
-    <tag k="addr:street" v="Prösler Straße - via Presule"/>
+    <tag k="addr:street" v="Prösler Straße - Via Presule"/>
     <tag k="addr:street:de" v="Prösler Straße"/>
-    <tag k="addr:street:it" v="via Presule"/>
+    <tag k="addr:street:it" v="Via Presule"/>
   </node>
   <node id="2756068613" lat="46.4996370" lon="11.5075345" version="2" timestamp="2018-06-03T16:00:28Z" changeset="59512289" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
@@ -2190,7 +2194,7 @@
     <tag k="addr:street:de" v="St.-Nikolaus-Weg"/>
     <tag k="addr:street:it" v="via S. Nicolò"/>
   </node>
-  <node id="6206029173" lat="46.5043429" lon="11.4965483" version="1" timestamp="2019-01-13T18:31:34Z" changeset="66280473" uid="587015" user="josil">
+  <node id="6206029173" lat="46.5043429" lon="11.4965483" version="2" timestamp="2020-06-13T20:34:39Z" changeset="86609174" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
@@ -2199,9 +2203,9 @@
     <tag k="addr:hamlet:it" v="Presule"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="39050"/>
-    <tag k="addr:street" v="Prösler Straße - via Presule"/>
+    <tag k="addr:street" v="Prösler Straße - Via Presule"/>
     <tag k="addr:street:de" v="Prösler Straße"/>
-    <tag k="addr:street:it" v="via Presule"/>
+    <tag k="addr:street:it" v="Via Presule"/>
   </node>
   <node id="6206029175" lat="46.5037430" lon="11.4993834" version="1" timestamp="2019-01-13T18:31:35Z" changeset="66280473" uid="587015" user="josil">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
@@ -2216,7 +2220,7 @@
     <tag k="addr:street:de" v="St.-Nikolaus-Weg"/>
     <tag k="addr:street:it" v="via S. Nicolò"/>
   </node>
-  <node id="6206029176" lat="46.5035603" lon="11.4969399" version="1" timestamp="2019-01-13T18:31:35Z" changeset="66280473" uid="587015" user="josil">
+  <node id="6206029176" lat="46.5035603" lon="11.4969399" version="2" timestamp="2020-06-13T20:34:39Z" changeset="86609174" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
@@ -2225,9 +2229,9 @@
     <tag k="addr:hamlet:it" v="Presule"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="39050"/>
-    <tag k="addr:street" v="Prösler Straße - via Presule"/>
+    <tag k="addr:street" v="Prösler Straße - Via Presule"/>
     <tag k="addr:street:de" v="Prösler Straße"/>
-    <tag k="addr:street:it" v="via Presule"/>
+    <tag k="addr:street:it" v="Via Presule"/>
   </node>
   <node id="6206029177" lat="46.5039165" lon="11.4980986" version="1" timestamp="2019-01-13T18:31:35Z" changeset="66280473" uid="587015" user="josil">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
@@ -2255,7 +2259,7 @@
     <tag k="addr:street:de" v="St.-Nikolaus-Weg"/>
     <tag k="addr:street:it" v="via S. Nicolò"/>
   </node>
-  <node id="6206029179" lat="46.5030747" lon="11.4968272" version="1" timestamp="2019-01-13T18:31:35Z" changeset="66280473" uid="587015" user="josil">
+  <node id="6206029179" lat="46.5030747" lon="11.4968272" version="2" timestamp="2020-06-13T20:34:39Z" changeset="86609174" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
@@ -2264,9 +2268,9 @@
     <tag k="addr:hamlet:it" v="Presule"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:postcode" v="39050"/>
-    <tag k="addr:street" v="Prösler Straße - via Presule"/>
+    <tag k="addr:street" v="Prösler Straße - Via Presule"/>
     <tag k="addr:street:de" v="Prösler Straße"/>
-    <tag k="addr:street:it" v="via Presule"/>
+    <tag k="addr:street:it" v="Via Presule"/>
   </node>
   <node id="6206029180" lat="46.5028974" lon="11.5012503" version="1" timestamp="2019-01-13T18:31:35Z" changeset="66280473" uid="587015" user="josil">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
@@ -2333,7 +2337,7 @@
     <tag k="addr:street:de" v="St.-Nikolaus-Weg"/>
     <tag k="addr:street:it" v="via S. Nicolò"/>
   </node>
-  <node id="6206029686" lat="46.5037023" lon="11.4969345" version="1" timestamp="2019-01-13T18:31:36Z" changeset="66280473" uid="587015" user="josil">
+  <node id="6206029686" lat="46.5037023" lon="11.4969345" version="2" timestamp="2020-06-13T20:34:39Z" changeset="86609174" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
@@ -2342,9 +2346,9 @@
     <tag k="addr:hamlet:it" v="Presule"/>
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:postcode" v="39050"/>
-    <tag k="addr:street" v="Prösler Straße - via Presule"/>
+    <tag k="addr:street" v="Prösler Straße - Via Presule"/>
     <tag k="addr:street:de" v="Prösler Straße"/>
-    <tag k="addr:street:it" v="via Presule"/>
+    <tag k="addr:street:it" v="Via Presule"/>
   </node>
   <node id="6206029687" lat="46.5038058" lon="11.4986136" version="1" timestamp="2019-01-13T18:31:37Z" changeset="66280473" uid="587015" user="josil">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
@@ -2359,7 +2363,7 @@
     <tag k="addr:street:de" v="St.-Nikolaus-Weg"/>
     <tag k="addr:street:it" v="via S. Nicolò"/>
   </node>
-  <node id="6206029688" lat="46.5031558" lon="11.4973717" version="1" timestamp="2019-01-13T18:31:37Z" changeset="66280473" uid="587015" user="josil">
+  <node id="6206029688" lat="46.5031558" lon="11.4973717" version="2" timestamp="2020-06-13T20:34:39Z" changeset="86609174" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
@@ -2368,9 +2372,9 @@
     <tag k="addr:hamlet:it" v="Presule"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:postcode" v="39050"/>
-    <tag k="addr:street" v="Prösler Straße - via Presule"/>
+    <tag k="addr:street" v="Prösler Straße - Via Presule"/>
     <tag k="addr:street:de" v="Prösler Straße"/>
-    <tag k="addr:street:it" v="via Presule"/>
+    <tag k="addr:street:it" v="Via Presule"/>
   </node>
   <node id="6206029689" lat="46.5029621" lon="11.4991607" version="1" timestamp="2019-01-13T18:31:37Z" changeset="66280473" uid="587015" user="josil">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
@@ -2450,7 +2454,7 @@
     <tag k="addr:street:de" v="St.-Nikolaus-Weg"/>
     <tag k="addr:street:it" v="via S. Nicolò"/>
   </node>
-  <node id="6206029696" lat="46.5054229" lon="11.4956175" version="1" timestamp="2019-01-13T18:31:38Z" changeset="66280473" uid="587015" user="josil">
+  <node id="6206029696" lat="46.5054229" lon="11.4956175" version="2" timestamp="2020-06-13T20:34:39Z" changeset="86609174" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
@@ -2459,11 +2463,11 @@
     <tag k="addr:hamlet:it" v="Presule"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="39050"/>
-    <tag k="addr:street" v="Prösler Straße - via Presule"/>
+    <tag k="addr:street" v="Prösler Straße - Via Presule"/>
     <tag k="addr:street:de" v="Prösler Straße"/>
-    <tag k="addr:street:it" v="via Presule"/>
+    <tag k="addr:street:it" v="Via Presule"/>
   </node>
-  <node id="6206029697" lat="46.5042025" lon="11.4964514" version="1" timestamp="2019-01-13T18:31:38Z" changeset="66280473" uid="587015" user="josil">
+  <node id="6206029697" lat="46.5042025" lon="11.4964514" version="2" timestamp="2020-06-13T20:34:39Z" changeset="86609174" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
@@ -2472,9 +2476,9 @@
     <tag k="addr:hamlet:it" v="Presule"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="39050"/>
-    <tag k="addr:street" v="Prösler Straße - via Presule"/>
+    <tag k="addr:street" v="Prösler Straße - Via Presule"/>
     <tag k="addr:street:de" v="Prösler Straße"/>
-    <tag k="addr:street:it" v="via Presule"/>
+    <tag k="addr:street:it" v="Via Presule"/>
   </node>
   <node id="6206029698" lat="46.5033276" lon="11.4976104" version="1" timestamp="2019-01-13T18:31:38Z" changeset="66280473" uid="587015" user="josil">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
@@ -3388,7 +3392,7 @@
     <tag k="addr:street:de" v="Grafenweg"/>
     <tag k="addr:street:it" v="Via Graf"/>
   </node>
-  <node id="2756069300" lat="46.5141005" lon="11.5078244" version="2" timestamp="2018-06-03T16:01:02Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756069300" lat="46.5141005" lon="11.5078244" version="3" timestamp="2020-06-13T16:49:26Z" changeset="86604322" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
@@ -3397,9 +3401,9 @@
     <tag k="addr:hamlet:it" v="Fiè di Sopra"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="39050"/>
-    <tag k="addr:street" v="Christophbildweg - Via C. Di S. Cristoforo"/>
+    <tag k="addr:street" v="Christophbildweg - Via C. di S. Cristoforo"/>
     <tag k="addr:street:de" v="Christophbildweg"/>
-    <tag k="addr:street:it" v="Via C. Di S. Cristoforo"/>
+    <tag k="addr:street:it" v="Via C. di S. Cristoforo"/>
   </node>
   <node id="2756069304" lat="46.5117708" lon="11.5037519" version="2" timestamp="2018-06-03T16:01:03Z" changeset="59512289" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
@@ -6729,7 +6733,7 @@
     <tag k="addr:place:it" v="Umes"/>
     <tag k="addr:postcode" v="39050"/>
   </node>
-  <node id="2756067996" lat="46.5037179" lon="11.5184101" version="4" timestamp="2019-01-13T17:55:36Z" changeset="66280473" uid="587015" user="josil">
+  <node id="2756067996" lat="46.5037179" lon="11.5184101" version="5" timestamp="2020-06-13T16:07:28Z" changeset="86603346" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
@@ -6739,6 +6743,8 @@
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="39050"/>
     <tag k="addr:street" v="Umser Straße - Via Umes"/>
+    <tag k="addr:street:de" v="Umser Straße"/>
+    <tag k="addr:street:it" v="Via Umes"/>
     <tag k="description" v="Beim familiengeführten Gasthof Kircher in Ums bei Völs am Schlern erleben Sie Ihren individuellen Genussurlaub inmitten der Südtiroler Dolomiten."/>
     <tag k="email" v="info@gasthof-kircher.it"/>
     <tag k="fax" v="+39 0471 724 396"/>
@@ -6784,14 +6790,16 @@
     <tag k="addr:street:de" v="Anton-Psenner-Weg"/>
     <tag k="addr:street:it" v="Via Anton Psenner"/>
   </node>
-  <node id="3407371029" lat="46.5040623" lon="11.5179964" version="4" timestamp="2018-06-03T16:01:46Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="3407371029" lat="46.5040623" lon="11.5179964" version="5" timestamp="2020-06-13T16:07:28Z" changeset="86603346" uid="160229" user="sorcrosc">
     <tag k="addr:country" v="IT"/>
     <tag k="addr:hamlet" v="Ums - Umes"/>
     <tag k="addr:hamlet:de" v="Ums"/>
     <tag k="addr:hamlet:it" v="Umes"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="39050"/>
-    <tag k="addr:street" v="Anton Psenner Weg"/>
+    <tag k="addr:street" v="Anton-Psenner-Weg - Via Anton Psenner"/>
+    <tag k="addr:street:de" v="Anton-Psenner-Weg"/>
+    <tag k="addr:street:it" v="Via Anton Psenner"/>
     <tag k="amenity" v="fire_station"/>
     <tag k="email" v="ff.ums@lfvbz.org"/>
     <tag k="fax" v="+39 0471 725581"/>
@@ -7351,7 +7359,7 @@
     <tag k="addr:street:de" v="Tschafonweg"/>
     <tag k="addr:street:it" v="Via Cavone"/>
   </node>
-  <node id="2756065983" lat="46.5134427" lon="11.5083654" version="2" timestamp="2018-06-03T15:59:15Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756065983" lat="46.5134427" lon="11.5083654" version="3" timestamp="2020-06-13T16:49:26Z" changeset="86604322" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
@@ -7360,11 +7368,11 @@
     <tag k="addr:hamlet:it" v="Fiè di Sopra"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="39050"/>
-    <tag k="addr:street" v="Christophbildweg - Via C. Di S. Cristoforo"/>
+    <tag k="addr:street" v="Christophbildweg - Via C. di S. Cristoforo"/>
     <tag k="addr:street:de" v="Christophbildweg"/>
-    <tag k="addr:street:it" v="Via C. Di S. Cristoforo"/>
+    <tag k="addr:street:it" v="Via C. di S. Cristoforo"/>
   </node>
-  <node id="2756068046" lat="46.5124679" lon="11.5093112" version="2" timestamp="2018-06-03T16:00:07Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756068046" lat="46.5124679" lon="11.5093112" version="3" timestamp="2020-06-13T16:49:26Z" changeset="86604322" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
@@ -7373,11 +7381,11 @@
     <tag k="addr:hamlet:it" v="Fiè di Sopra"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="39050"/>
-    <tag k="addr:street" v="Christophbildweg - Via C. Di S. Cristoforo"/>
+    <tag k="addr:street" v="Christophbildweg - Via C. di S. Cristoforo"/>
     <tag k="addr:street:de" v="Christophbildweg"/>
-    <tag k="addr:street:it" v="Via C. Di S. Cristoforo"/>
+    <tag k="addr:street:it" v="Via C. di S. Cristoforo"/>
   </node>
-  <node id="2756068653" lat="46.5092412" lon="11.5135181" version="2" timestamp="2018-06-03T16:00:29Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756068653" lat="46.5092412" lon="11.5135181" version="3" timestamp="2020-06-13T16:49:26Z" changeset="86604322" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
@@ -7386,9 +7394,9 @@
     <tag k="addr:hamlet:it" v="Fiè di Sopra"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="39050"/>
-    <tag k="addr:street" v="Christophbildweg - Via C. Di S. Cristoforo"/>
+    <tag k="addr:street" v="Christophbildweg - Via C. di S. Cristoforo"/>
     <tag k="addr:street:de" v="Christophbildweg"/>
-    <tag k="addr:street:it" v="Via C. Di S. Cristoforo"/>
+    <tag k="addr:street:it" v="Via C. di S. Cristoforo"/>
   </node>
   <node id="2756069051" lat="46.5124570" lon="11.5143166" version="2" timestamp="2018-06-03T16:00:44Z" changeset="59512289" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
@@ -7416,7 +7424,7 @@
     <tag k="addr:street:de" v="Schlernstraße"/>
     <tag k="addr:street:it" v="Via Sciliar"/>
   </node>
-  <node id="2756069135" lat="46.5090588" lon="11.5133255" version="2" timestamp="2018-06-03T16:00:47Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756069135" lat="46.5090588" lon="11.5133255" version="3" timestamp="2020-06-13T16:49:26Z" changeset="86604322" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
@@ -7425,9 +7433,9 @@
     <tag k="addr:hamlet:it" v="Fiè di Sopra"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="39050"/>
-    <tag k="addr:street" v="Christophbildweg - Via C. Di S. Cristoforo"/>
+    <tag k="addr:street" v="Christophbildweg - Via C. di S. Cristoforo"/>
     <tag k="addr:street:de" v="Christophbildweg"/>
-    <tag k="addr:street:it" v="Via C. Di S. Cristoforo"/>
+    <tag k="addr:street:it" v="Via C. di S. Cristoforo"/>
   </node>
   <node id="2756069611" lat="46.5087255" lon="11.5142710" version="2" timestamp="2018-06-03T16:01:21Z" changeset="59512289" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
@@ -7952,7 +7960,7 @@
     <tag k="addr:street:de" v="Kühbachweg"/>
     <tag k="addr:street:it" v="Via Kühbach"/>
   </node>
-  <node id="2756069528" lat="46.5146625" lon="11.5086583" version="2" timestamp="2018-06-03T16:01:14Z" changeset="59512289" uid="160229" user="sorcrosc">
+  <node id="2756069528" lat="46.5146625" lon="11.5086583" version="3" timestamp="2020-06-13T16:49:26Z" changeset="86604322" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
     <tag k="addr:city:de" v="Völs am Schlern"/>
     <tag k="addr:city:it" v="Fiè allo Sciliar"/>
@@ -7961,9 +7969,9 @@
     <tag k="addr:hamlet:it" v="Fiè di Sopra"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:postcode" v="39050"/>
-    <tag k="addr:street" v="Christophbildweg - Via C. Di S. Cristoforo"/>
+    <tag k="addr:street" v="Christophbildweg - Via C. di S. Cristoforo"/>
     <tag k="addr:street:de" v="Christophbildweg"/>
-    <tag k="addr:street:it" v="Via C. Di S. Cristoforo"/>
+    <tag k="addr:street:it" v="Via C. di S. Cristoforo"/>
   </node>
   <node id="2756069563" lat="46.5187069" lon="11.5129101" version="2" timestamp="2018-06-03T16:01:16Z" changeset="59512289" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
@@ -10309,19 +10317,21 @@
     <tag k="addr:place:it" v="San Costantino"/>
     <tag k="addr:postcode" v="39050"/>
   </node>
-  <node id="2756068410" lat="46.5400520" lon="11.5199863" version="2" timestamp="2018-05-27T14:54:03Z" changeset="59315210" uid="160229" user="sorcrosc">
+  <node id="2756068410" lat="46.5400520" lon="11.5199863" version="4" timestamp="2020-06-09T22:59:53Z" changeset="86429353" uid="1714220" user="luschi">
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:place" v="St. Konstantin - San Costantino"/>
+    <tag k="addr:place:de" v="St. Konstantin"/>
+    <tag k="addr:place:it" v="San Costantino"/>
+    <tag k="addr:postcode" v="39050"/>
+    <tag k="addr:street" v="Pfarrmoos"/>
+  </node>
+  <node id="2756068414" lat="46.5395311" lon="11.5193100" version="4" timestamp="2020-06-09T22:59:53Z" changeset="86429353" uid="1714220" user="luschi">
     <tag k="addr:housenumber" v="24"/>
     <tag k="addr:place" v="St. Konstantin - San Costantino"/>
     <tag k="addr:place:de" v="St. Konstantin"/>
     <tag k="addr:place:it" v="San Costantino"/>
     <tag k="addr:postcode" v="39050"/>
-  </node>
-  <node id="2756068414" lat="46.5395311" lon="11.5193100" version="2" timestamp="2018-05-27T14:54:03Z" changeset="59315210" uid="160229" user="sorcrosc">
-    <tag k="addr:housenumber" v="24/A"/>
-    <tag k="addr:place" v="St. Konstantin - San Costantino"/>
-    <tag k="addr:place:de" v="St. Konstantin"/>
-    <tag k="addr:place:it" v="San Costantino"/>
-    <tag k="addr:postcode" v="39050"/>
+    <tag k="addr:street" v="Pfarrmoos"/>
   </node>
   <node id="2756068823" lat="46.5357699" lon="11.5203097" version="2" timestamp="2018-05-27T14:54:04Z" changeset="59315210" uid="160229" user="sorcrosc">
     <tag k="addr:housenumber" v="30"/>
@@ -10534,12 +10544,13 @@
     <tag k="addr:place:it" v="San Costantino"/>
     <tag k="addr:postcode" v="39050"/>
   </node>
-  <node id="2756068353" lat="46.5383778" lon="11.5238788" version="2" timestamp="2018-05-27T14:54:03Z" changeset="59315210" uid="160229" user="sorcrosc">
+  <node id="2756068353" lat="46.5383778" lon="11.5238788" version="3" timestamp="2020-06-09T20:51:19Z" changeset="86426401" uid="1714220" user="luschi">
     <tag k="addr:housenumber" v="23"/>
     <tag k="addr:place" v="St. Konstantin - San Costantino"/>
     <tag k="addr:place:de" v="St. Konstantin"/>
     <tag k="addr:place:it" v="San Costantino"/>
     <tag k="addr:postcode" v="39050"/>
+    <tag k="addr:street" v="Pfarrmoos"/>
   </node>
   <node id="2756068919" lat="46.5363924" lon="11.5239120" version="2" timestamp="2018-05-27T14:54:04Z" changeset="59315210" uid="160229" user="sorcrosc">
     <tag k="addr:housenumber" v="32"/>
@@ -10653,19 +10664,21 @@
     <tag k="addr:place:it" v="San Costantino"/>
     <tag k="addr:postcode" v="39050"/>
   </node>
-  <node id="2756068297" lat="46.5410539" lon="11.5235281" version="2" timestamp="2018-05-27T14:54:03Z" changeset="59315210" uid="160229" user="sorcrosc">
-    <tag k="addr:housenumber" v="22"/>
+  <node id="2756068297" lat="46.5410066" lon="11.5234354" version="4" timestamp="2020-06-09T22:59:53Z" changeset="86429353" uid="1714220" user="luschi">
+    <tag k="addr:housenumber" v="26"/>
     <tag k="addr:place" v="St. Konstantin - San Costantino"/>
     <tag k="addr:place:de" v="St. Konstantin"/>
     <tag k="addr:place:it" v="San Costantino"/>
     <tag k="addr:postcode" v="39050"/>
+    <tag k="addr:street" v="Pfarrmoos"/>
   </node>
-  <node id="2756068307" lat="46.5414647" lon="11.5228559" version="2" timestamp="2018-05-27T14:54:03Z" changeset="59315210" uid="160229" user="sorcrosc">
-    <tag k="addr:housenumber" v="22/A"/>
+  <node id="2756068307" lat="46.5414518" lon="11.5228371" version="4" timestamp="2020-06-09T22:59:53Z" changeset="86429353" uid="1714220" user="luschi">
+    <tag k="addr:housenumber" v="28"/>
     <tag k="addr:place" v="St. Konstantin - San Costantino"/>
     <tag k="addr:place:de" v="St. Konstantin"/>
     <tag k="addr:place:it" v="San Costantino"/>
     <tag k="addr:postcode" v="39050"/>
+    <tag k="addr:street" v="Pfarrmoos"/>
   </node>
   <node id="2756069434" lat="46.5054893" lon="11.5351759" version="2" timestamp="2018-06-03T16:01:12Z" changeset="59512289" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
@@ -10710,7 +10723,7 @@
     <tag k="addr:place:it" v="Umes"/>
     <tag k="addr:postcode" v="39050"/>
   </node>
-  <way id="219621505" version="2" timestamp="2016-05-13T10:05:32Z" changeset="39287980" uid="30255" user="Tomi">
+  <way id="219621505" version="4" timestamp="2020-06-13T19:34:17Z" changeset="86607928" uid="160229" user="sorcrosc">
     <center lat="46.4948338" lon="11.4512230"/>
     <nd ref="2287665527"/>
     <nd ref="2287665444"/>
@@ -10724,15 +10737,23 @@
     <nd ref="2287665403"/>
     <nd ref="2287665392"/>
     <nd ref="2287665527"/>
-    <tag k="addr:city" v="Blumau - Prato all'Isarco"/>
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:postcode" v="39053"/>
-    <tag k="addr:street" v="Blumau - Prato all'Isarco"/>
+    <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
+    <tag k="addr:city:de" v="Völs am Schlern"/>
+    <tag k="addr:city:it" v="Fiè allo Sciliar"/>
+    <tag k="addr:hamlet" v="Blumau - Prato all'Isarco"/>
+    <tag k="addr:hamlet:de" v="Blumau"/>
+    <tag k="addr:hamlet:it" v="Prato all'Isarco"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="39050"/>
+    <tag k="addr:street" v="Kalchofenstraße - Via Kalchofen"/>
+    <tag k="addr:street:de" v="Kalchofenstraße"/>
+    <tag k="addr:street:it" v="Via Kalchofen"/>
     <tag k="building" v="industrial"/>
+    <tag k="craft" v="meat"/>
     <tag k="email" v="info@pramstrahler.eu"/>
     <tag k="name" v="Pramstrahler"/>
     <tag k="phone" v="+39 0471 353333"/>
-    <tag k="website" v="http://www.pramstrahler.eu"/>
+    <tag k="website" v="https://www.pramstrahler.eu"/>
   </way>
   <way id="244210465" version="5" timestamp="2018-06-03T16:01:50Z" changeset="59512289" uid="160229" user="sorcrosc">
     <center lat="46.5041073" lon="11.4666373"/>
@@ -10789,8 +10810,8 @@
     <tag k="name" v="Haus Santner"/>
     <tag k="tourism" v="guest_house"/>
   </way>
-  <way id="219664461" version="4" timestamp="2018-10-23T06:27:44Z" changeset="63781744" uid="8812731" user="Consisto GmbH">
-    <center lat="46.5037030" lon="11.5184046"/>
+  <way id="219664461" version="5" timestamp="2020-06-13T16:07:28Z" changeset="86603346" uid="160229" user="sorcrosc">
+    <center lat="46.5036952" lon="11.5183761"/>
     <nd ref="2288062023"/>
     <nd ref="2288062051"/>
     <nd ref="2288062053"/>
@@ -10801,9 +10822,13 @@
     <nd ref="2288062025"/>
     <nd ref="2288062023"/>
     <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
+    <tag k="addr:city:de" v="Völs am Schlern"/>
+    <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="39050"/>
-    <tag k="addr:street" v="Umser Straße"/>
+    <tag k="addr:street" v="Umser Straße - Via Umes"/>
+    <tag k="addr:street:de" v="Umser Straße"/>
+    <tag k="addr:street:it" v="Via Umes"/>
     <tag k="building" v="yes"/>
     <tag k="cuisine" v="regional;italian"/>
     <tag k="email" v="info@gasthof-kircher.it"/>
@@ -10827,18 +10852,27 @@
     <tag k="addr:street" v="Ums"/>
     <tag k="building" v="yes"/>
   </way>
-  <way id="208619782" version="5" timestamp="2015-04-16T16:55:51Z" changeset="30269778" uid="587015" user="josil">
+  <way id="208619782" version="6" timestamp="2020-06-13T16:24:05Z" changeset="86603687" uid="160229" user="sorcrosc">
     <center lat="46.5177798" lon="11.5121597"/>
     <nd ref="2188945821"/>
     <nd ref="2188945792"/>
     <nd ref="2188945780"/>
     <nd ref="2188945810"/>
     <nd ref="2188945821"/>
+    <tag k="addr:city" v="Völs am Schlern - Fiè allo Sciliar"/>
+    <tag k="addr:city:de" v="Völs am Schlern"/>
+    <tag k="addr:city:it" v="Fiè allo Sciliar"/>
     <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Kübachweg"/>
+    <tag k="addr:postcode" v="39050"/>
+    <tag k="addr:street" v="Kühbachweg - Via Kühbach"/>
+    <tag k="addr:street:de" v="Kühbachweg"/>
+    <tag k="addr:street:it" v="Via Kühbach"/>
     <tag k="building" v="yes"/>
+    <tag k="contact:email" v="info@appartements-panorama.it"/>
+    <tag k="contact:phone" v="+39 337 72 9517"/>
     <tag k="name" v="Appartement Panorama"/>
     <tag k="tourism" v="chalet"/>
+    <tag k="website" v="https://appartements-panorama.it"/>
   </way>
   <way id="144306268" version="3" timestamp="2015-02-17T18:43:35Z" changeset="28913055" uid="587015" user="josil">
     <center lat="46.5130638" lon="11.5216191"/>

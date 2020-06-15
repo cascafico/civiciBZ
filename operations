@@ -96,13 +96,13 @@
   },
   {
     "op": "core/text-transform",
-    "description": "Text transform on cells in column STREET_IT using expression grel:value.replace(\" Di \", \" di \").replace(\" Del \", \" del \").replace(\" Dei \", \" dei \").replace(\" Dell'\", \" dell'\").replace(\" Della\", \" della\").replace(\" Delle \", \" delle \").replace(\" Degli\", \" degli\").replace(\" E \", \" e \").replace(\" A \", \" a \").replace(\" Nei \", \" nei \").replace(\" Nel \", \" nel \").replace(\" Sui \", \" sui \").replace(\" Sul \", \" sul \").replace(\" Dal \", \" dal \").replace(\" Dai \", \" dai \")",
+    "description": "Preposizioni varie",
     "engineConfig": {
       "facets": [],
       "mode": "row-based"
     },
     "columnName": "STREET_IT",
-    "expression": "grel:value.replace(\" Di \", \" di \").replace(\" Del \", \" del \").replace(\" Dei \", \" dei \").replace(\" Dell'\", \" dell'\").replace(\" Della\", \" della\").replace(\" Delle \", \" delle \").replace(\" Degli\", \" degli\").replace(\" E \", \" e \").replace(\" A \", \" a \").replace(\" Nei \", \" nei \").replace(\" Nel \", \" nel \").replace(\" Sui \", \" sui \").replace(\" Sul \", \" sul \").replace(\" Dal \", \" dal \").replace(\" Dai \", \" dai \")",
+    "expression": "grel:value.replace(\" Di \", \" di \").replace(\" Del \", \" del \").replace(\" Dei \", \" dei \").replace(\" Dell'\", \" dell'\").replace(\" All'\", \" all'\").replace(\" Della\", \" della\").replace(\" Delle \", \" delle \").replace(\" Degli\", \" degli\").replace(\" E \", \" e \").replace(\" A \", \" a \").replace(\" Nei \", \" nei \").replace(\" Nel \", \" nel \").replace(\" Sui \", \" sui \").replace(\" Sul \", \" sul \").replace(\" Dal \", \" dal \").replace(\" Dai \", \" dai \")",
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10

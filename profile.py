@@ -37,7 +37,7 @@ bbox = True
 #bbox = [35.28,6.62,47.1,18.79]
 
 # tags to replace on matched OSM objects
-master_tags = ('addr:housenumber', 'addr:street')
+master_tags = ('addr:housenumber', 'addr:street','addr:place')
 
 # delete_unmatched = True cancellerebbe anche i POI con indirizzo
 delete_unmatched = False
